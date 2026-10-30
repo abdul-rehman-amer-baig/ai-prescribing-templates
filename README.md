@@ -2,7 +2,7 @@
 
 ## Overview
 
-I received a Certificate of Achievement for finding a gap in our template creation process and building an AI-powered feature to fix it.
+I received a [Certificate of Achievement](https://www.linkedin.com/feed/update/urn:li:activity:7484871698677420032/) for finding a gap in our template creation process and building an AI-powered feature to fix it.
 
 Before this feature, creating a new template  could take about a week. The process usually started when a client shared their requirements with our team. An engineer would then turn those requirements into a JSON template, often using AI tools to help write the initial version.
 
